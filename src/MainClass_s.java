@@ -18,6 +18,7 @@ public class MainClass_s {
 		
 		SingletonTest_s testSingle2 = SingletonTest_s.getInstance();
 		
+		//Calculator_s.PI ;
 		
 	}
 

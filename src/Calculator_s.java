@@ -6,6 +6,9 @@ public class Calculator_s {
 	
 	static int thirdNum;  // 정적 멤버
 	
+	static final double PI  = 3.141592;  // 한번 선언될때 초기화되면 그 값은 변경 불가
+	
+	static final double SALERATE = 0.7;  // 상수 선언
 	
 	public Calculator_s() {
 		super();
